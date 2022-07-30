@@ -2,6 +2,9 @@
 
 ![Badge Concluido](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
+## Link do projeto (Git pages)
+https://rafael-jooj.github.io/Pokedex/
+
 ## Descrição do Projeto
 <p>Esse projeto se trata de uma ferramenta web (pokedex) capaz de buscar pokemons por meio de seu id (número identificador) ou pelo seu nome.</p> 
 <p>Para a busca de dados dos pokemons a ferramenta consome a API "PokéAPI"</p>
